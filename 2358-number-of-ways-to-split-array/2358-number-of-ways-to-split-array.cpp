@@ -1,22 +1,22 @@
 class Solution {
 public:
     int waysToSplitArray(vector<int>& nums) {
+        long long leftSum=0;
+        long long rightSum=0;
         int l = nums.size();
+        int count=0;
 
-        //prefixsum
-        long long sum=0;
-        vector<long long> preSum;
-        for(int i =0;i<l;i++){
-            sum+=nums[i];
-           preSum.push_back(sum);
+        for(int i=0;i<l;i++){
+            rightSum+=nums[i];
         }
 
-
-        int c =0;
         for(int i=0;i<l-1;i++){
-            if(preSum[i]>=preSum[l-1]-preSum[i])
-            c++;
+            leftSum+=nums[i];
+            rightSum-=nums[i];
+            if(leftSum>=rightSum)
+            count++;
         }
-        return c;
+
+        return count;
     }
 };
