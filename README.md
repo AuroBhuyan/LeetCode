@@ -6,6 +6,7 @@ Curated solutions to LeetCode problems in C++
 ## Array
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AuroBhuyan/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -30,6 +31,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AuroBhuyan/LeetCode/tree/master/0125-valid-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AuroBhuyan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AuroBhuyan/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -64,4 +66,8 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
