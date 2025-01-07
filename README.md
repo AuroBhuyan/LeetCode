@@ -30,6 +30,7 @@ Curated solutions to LeetCode problems in C++
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/AuroBhuyan/LeetCode/tree/master/0125-valid-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AuroBhuyan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -70,4 +71,8 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
