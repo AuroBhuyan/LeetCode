@@ -50,6 +50,7 @@ Curated solutions to LeetCode problems in C++
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@ Curated solutions to LeetCode problems in C++
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
