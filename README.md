@@ -7,6 +7,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
@@ -92,6 +93,7 @@ Curated solutions to LeetCode problems in C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String Matching
