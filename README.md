@@ -10,6 +10,7 @@ Curated solutions to LeetCode problems in C++
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AuroBhuyan/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -38,6 +40,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AuroBhuyan/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -121,6 +124,7 @@ Curated solutions to LeetCode problems in C++
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
@@ -129,5 +133,6 @@ Curated solutions to LeetCode problems in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AuroBhuyan/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
