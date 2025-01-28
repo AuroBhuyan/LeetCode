@@ -6,6 +6,7 @@ Curated solutions to LeetCode problems in C++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
@@ -25,6 +26,7 @@ Curated solutions to LeetCode problems in C++
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
