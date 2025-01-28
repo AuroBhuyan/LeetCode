@@ -8,6 +8,7 @@ Curated solutions to LeetCode problems in C++
 | ------- |
 | [0001-two-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AuroBhuyan/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
@@ -90,6 +91,7 @@ Curated solutions to LeetCode problems in C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -133,6 +135,7 @@ Curated solutions to LeetCode problems in C++
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AuroBhuyan/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
