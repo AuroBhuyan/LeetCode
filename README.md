@@ -97,6 +97,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/AuroBhuyan/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String Matching
@@ -120,4 +121,8 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/AuroBhuyan/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
