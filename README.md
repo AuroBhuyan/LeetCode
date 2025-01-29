@@ -18,6 +18,7 @@ Curated solutions to LeetCode problems in C++
 | [0283-move-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AuroBhuyan/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -35,6 +36,7 @@ Curated solutions to LeetCode problems in C++
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -69,6 +71,7 @@ Curated solutions to LeetCode problems in C++
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AuroBhuyan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
