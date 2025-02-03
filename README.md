@@ -8,6 +8,7 @@ Curated solutions to LeetCode problems in C++
 | ------- |
 | [0001-two-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/AuroBhuyan/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AuroBhuyan/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
@@ -88,6 +89,7 @@ Curated solutions to LeetCode problems in C++
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AuroBhuyan/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
@@ -144,4 +146,8 @@ Curated solutions to LeetCode problems in C++
 | [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AuroBhuyan/LeetCode/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AuroBhuyan/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
