@@ -71,6 +71,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AuroBhuyan/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/AuroBhuyan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AuroBhuyan/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -176,4 +177,8 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0055-jump-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
