@@ -17,6 +17,7 @@ Curated solutions to LeetCode problems in C++
 | [0073-set-matrix-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AuroBhuyan/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/AuroBhuyan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@ Curated solutions to LeetCode problems in C++
 | [0014-longest-common-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AuroBhuyan/LeetCode/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AuroBhuyan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AuroBhuyan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0344-reverse-string) |
@@ -179,6 +181,7 @@ Curated solutions to LeetCode problems in C++
 | [0054-spiral-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 ## Union Find
 |  |
 | ------- |
@@ -195,4 +198,12 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AuroBhuyan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
