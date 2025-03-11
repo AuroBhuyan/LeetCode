@@ -8,10 +8,10 @@ public:
         int len = 0;
         while(r<n){
            
-           if(mpp[s[r]]!=-1){
+        
             if(mpp[s[r]]>=l) 
             {l = mpp[s[r]]+1;}
-           }
+           
 
             len = max(r-l+1,len);
             mpp[s[r]] = r;
