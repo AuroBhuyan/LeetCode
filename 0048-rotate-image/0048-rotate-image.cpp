@@ -4,18 +4,18 @@ public:
         int n = matrix.size();
 
         for(int i=0;i<n;i++){
-            for(int j=0;j<=i;j++){
+            for(int j=i+1;j<n;j++){
                 swap(matrix[i][j],matrix[j][i]);
             }
         }
 
         for(int i=0;i<n;i++){
-            int a = 0;
-            int b = n-1;
-            while(a<b){
-                swap(matrix[i][a],matrix[i][b]);
-                a++;
-                b--;
+            int x=0;
+            int y=n-1;
+            while(x<y){
+                swap(matrix[i][x],matrix[i][y]);
+                x++;
+                y--;
             }
         }
     }
