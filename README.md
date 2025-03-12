@@ -22,6 +22,7 @@ Curated solutions to LeetCode problems in C++
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0283-move-zeroes) |
@@ -184,10 +185,12 @@ Curated solutions to LeetCode problems in C++
 | [0073-set-matrix-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AuroBhuyan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -209,4 +212,9 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
