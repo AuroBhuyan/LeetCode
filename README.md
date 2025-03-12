@@ -11,6 +11,7 @@ Curated solutions to LeetCode problems in C++
 | [0033-search-in-rotated-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/AuroBhuyan/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AuroBhuyan/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0055-jump-game) |
@@ -45,6 +46,7 @@ Curated solutions to LeetCode problems in C++
 | ------- |
 | [0001-two-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AuroBhuyan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/AuroBhuyan/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AuroBhuyan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
@@ -60,6 +62,7 @@ Curated solutions to LeetCode problems in C++
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AuroBhuyan/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AuroBhuyan/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
@@ -83,6 +86,7 @@ Curated solutions to LeetCode problems in C++
 | [0014-longest-common-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AuroBhuyan/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/AuroBhuyan/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AuroBhuyan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AuroBhuyan/LeetCode/tree/master/0205-isomorphic-strings) |
