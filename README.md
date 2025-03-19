@@ -35,6 +35,7 @@ Curated solutions to LeetCode problems in C++
 | [0283-move-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AuroBhuyan/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
@@ -62,6 +63,7 @@ Curated solutions to LeetCode problems in C++
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AuroBhuyan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -225,6 +227,7 @@ Curated solutions to LeetCode problems in C++
 | ------- |
 | [0020-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,4 +272,5 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
