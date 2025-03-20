@@ -106,6 +106,7 @@ Curated solutions to LeetCode problems in C++
 | [0205-isomorphic-strings](https://github.com/AuroBhuyan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AuroBhuyan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0812-rotate-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AuroBhuyan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -133,6 +134,7 @@ Curated solutions to LeetCode problems in C++
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0344-reverse-string) |
+| [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AuroBhuyan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -142,6 +144,7 @@ Curated solutions to LeetCode problems in C++
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AuroBhuyan/LeetCode/tree/master/0326-power-of-three) |
+| [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Dynamic Programming
