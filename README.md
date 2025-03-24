@@ -159,6 +159,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AuroBhuyan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/AuroBhuyan/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -279,4 +280,8 @@ Curated solutions to LeetCode problems in C++
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AuroBhuyan/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
