@@ -150,6 +150,7 @@ Curated solutions to LeetCode problems in C++
 | [0002-add-two-numbers](https://github.com/AuroBhuyan/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AuroBhuyan/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/AuroBhuyan/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AuroBhuyan/LeetCode/tree/master/0326-power-of-three) |
@@ -200,6 +201,7 @@ Curated solutions to LeetCode problems in C++
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/AuroBhuyan/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
