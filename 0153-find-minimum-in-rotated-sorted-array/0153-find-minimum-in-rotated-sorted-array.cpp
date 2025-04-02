@@ -1,23 +1,22 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int n = nums.size();
-        int i=0;
-        int j=n-1;
-        int mn = INT_MAX;
-        while(i<=j){
-            int m = i+(j-i)/2;
-            if(nums[i]<=nums[m]){
-               mn = min(mn,nums[i]);
-               i = m+1;
+        int l = 0;
+        int r = nums.size()-1;
+        int ans = INT_MAX;
+        while(l<=r){
+            int m = l+(r-l)/2;
+            if(nums[l]<=nums[m]){  
+                ans = min(ans,nums[l]);
+                l = m+1;
             }
             else
             {
-                mn = min(mn,nums[m]);
-                j = m-1;
+                ans = min(ans,nums[m]);
+                r = m-1;
             }
         }
 
-        return mn;
+        return ans;
     }
 };
