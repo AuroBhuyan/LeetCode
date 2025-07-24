@@ -329,4 +329,5 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/AuroBhuyan/LeetCode/tree/master/0175-combine-two-tables) |
+| [1908-recyclable-and-low-fat-products](https://github.com/AuroBhuyan/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
