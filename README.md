@@ -325,4 +325,8 @@ Curated solutions to LeetCode problems in C++
 | [0142-linked-list-cycle-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/AuroBhuyan/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AuroBhuyan/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AuroBhuyan/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
