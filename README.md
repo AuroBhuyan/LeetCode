@@ -48,6 +48,7 @@ Curated solutions to LeetCode problems in C++
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +91,7 @@ Curated solutions to LeetCode problems in C++
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Heap (Priority Queue)
@@ -156,6 +158,7 @@ Curated solutions to LeetCode problems in C++
 | [0344-reverse-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AuroBhuyan/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AuroBhuyan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
