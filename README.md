@@ -55,6 +55,7 @@ Curated solutions to LeetCode problems in C++
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AuroBhuyan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1791-richest-customer-wealth](https://github.com/AuroBhuyan/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AuroBhuyan/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AuroBhuyan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -257,6 +258,7 @@ Curated solutions to LeetCode problems in C++
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
+| [1791-richest-customer-wealth](https://github.com/AuroBhuyan/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Union Find
 |  |
 | ------- |
