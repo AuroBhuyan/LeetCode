@@ -59,6 +59,7 @@ Curated solutions to LeetCode problems in C++
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AuroBhuyan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1791-richest-customer-wealth](https://github.com/AuroBhuyan/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AuroBhuyan/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AuroBhuyan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -177,6 +178,7 @@ Curated solutions to LeetCode problems in C++
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -361,4 +363,8 @@ Curated solutions to LeetCode problems in C++
 | [1801-average-time-of-process-per-machine](https://github.com/AuroBhuyan/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/AuroBhuyan/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AuroBhuyan/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
