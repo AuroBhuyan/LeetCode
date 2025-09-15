@@ -1,23 +1,22 @@
 class Solution {
 public:
 
-    int gcd(int a,int b){
-        while(a){
-            int temp = a;
-            a = b%a;
-            b = temp;
+    int gcd(int x,int y){
+        while(x){
+            int temp = x;
+            x = y%x;
+            y = temp;
         }
-        return b;
+        return y;
     }
-
     int findGCD(vector<int>& nums) {
         int small = INT_MAX;
-        int large = INT_MIN;
-        for(auto num:nums){
-            small = min(small,num);
-            large = max(large,num);
+        int big = INT_MIN;
+        for(auto ele:nums){
+            small = min(small,ele);
+            big = max(big,ele);
         }
 
-        return gcd(small,large);
+        return gcd(small,big);
     }
 };
