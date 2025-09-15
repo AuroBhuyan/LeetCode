@@ -176,6 +176,7 @@ Curated solutions to LeetCode problems in C++
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AuroBhuyan/LeetCode/tree/master/0326-power-of-three) |
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0728-self-dividing-numbers](https://github.com/AuroBhuyan/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
