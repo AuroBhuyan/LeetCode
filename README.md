@@ -25,6 +25,7 @@ Curated solutions to LeetCode problems in C++
 | [0075-sort-colors](https://github.com/AuroBhuyan/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/AuroBhuyan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AuroBhuyan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -191,6 +192,7 @@ Curated solutions to LeetCode problems in C++
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/AuroBhuyan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
