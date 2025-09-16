@@ -50,6 +50,7 @@ Curated solutions to LeetCode problems in C++
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -111,6 +112,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AuroBhuyan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## String
@@ -270,6 +272,7 @@ Curated solutions to LeetCode problems in C++
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
+| [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AuroBhuyan/LeetCode/tree/master/1791-richest-customer-wealth) |
