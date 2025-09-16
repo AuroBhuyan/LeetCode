@@ -58,6 +58,7 @@ Curated solutions to LeetCode problems in C++
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AuroBhuyan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AuroBhuyan/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AuroBhuyan/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -270,6 +271,7 @@ Curated solutions to LeetCode problems in C++
 | [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/AuroBhuyan/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Union Find
 |  |
