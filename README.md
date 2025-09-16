@@ -46,6 +46,7 @@ Curated solutions to LeetCode problems in C++
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
@@ -191,6 +192,7 @@ Curated solutions to LeetCode problems in C++
 | [0053-maximum-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -271,6 +273,7 @@ Curated solutions to LeetCode problems in C++
 | [0074-search-a-2d-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -314,6 +317,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
 ## Quickselect
 |  |
