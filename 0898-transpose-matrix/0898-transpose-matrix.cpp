@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> transpose(vector<vector<int>>& matrix) {
-
         int row = matrix.size();
         int col = matrix[0].size();
 
