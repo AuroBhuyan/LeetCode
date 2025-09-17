@@ -42,6 +42,7 @@ Curated solutions to LeetCode problems in C++
 | [0238-product-of-array-except-self](https://github.com/AuroBhuyan/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0283-move-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AuroBhuyan/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AuroBhuyan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0493-reverse-pairs) |
@@ -144,6 +145,7 @@ Curated solutions to LeetCode problems in C++
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AuroBhuyan/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AuroBhuyan/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -280,6 +282,7 @@ Curated solutions to LeetCode problems in C++
 | [0074-search-a-2d-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AuroBhuyan/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/AuroBhuyan/LeetCode/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AuroBhuyan/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
@@ -401,4 +404,8 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0493-reverse-pairs) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AuroBhuyan/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
