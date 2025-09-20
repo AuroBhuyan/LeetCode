@@ -62,6 +62,7 @@ Curated solutions to LeetCode problems in C++
 | [1020-longest-turbulent-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AuroBhuyan/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -322,6 +323,7 @@ Curated solutions to LeetCode problems in C++
 | [0424-longest-repeating-character-replacement](https://github.com/AuroBhuyan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1020-longest-turbulent-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AuroBhuyan/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AuroBhuyan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
