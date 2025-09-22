@@ -1,22 +1,25 @@
 class Solution {
 public:
-    bool isSelfDividing(int n) {
-        int N = n;
-        while (n) {
-            int digit = n % 10;
-            if (!digit || N % digit != 0)
-                return false;
-            n /= 10;
-        }
-        return true;
+
+bool isSelfDividing(int n){
+    int N = n;
+    while(n){
+        int digit = n%10;
+        if(!digit || N%digit!=0)
+        return false; 
+
+        n/=10;
     }
+     return true;
+}
 
     vector<int> selfDividingNumbers(int left, int right) {
         vector<int> ans;
-        for (int i = left; i <= right; i++) {
-            if (isSelfDividing(i))
-                ans.push_back(i);
+        for(int i=left;i<=right;i++){
+            if(isSelfDividing(i))
+            ans.push_back(i);
         }
+
         return ans;
     }
 };
