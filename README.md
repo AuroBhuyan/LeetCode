@@ -49,6 +49,7 @@ Curated solutions to LeetCode problems in C++
 | [0493-reverse-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ Curated solutions to LeetCode problems in C++
 | [0424-longest-repeating-character-replacement](https://github.com/AuroBhuyan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -108,6 +110,7 @@ Curated solutions to LeetCode problems in C++
 | [0215-kth-largest-element-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -178,6 +181,7 @@ Curated solutions to LeetCode problems in C++
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/AuroBhuyan/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -257,6 +261,7 @@ Curated solutions to LeetCode problems in C++
 | [0209-minimum-size-subarray-sum](https://github.com/AuroBhuyan/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
