@@ -202,6 +202,7 @@ Curated solutions to LeetCode problems in C++
 | [0326-power-of-three](https://github.com/AuroBhuyan/LeetCode/tree/master/0326-power-of-three) |
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0728-self-dividing-numbers](https://github.com/AuroBhuyan/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0809-preimage-size-of-factorial-zeroes-function](https://github.com/AuroBhuyan/LeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -268,6 +269,7 @@ Curated solutions to LeetCode problems in C++
 | [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0809-preimage-size-of-factorial-zeroes-function](https://github.com/AuroBhuyan/LeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
