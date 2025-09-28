@@ -60,6 +60,7 @@ Curated solutions to LeetCode problems in C++
 | [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-longest-turbulent-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/1020-longest-turbulent-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -115,6 +116,7 @@ Curated solutions to LeetCode problems in C++
 | [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/AuroBhuyan/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -125,6 +127,7 @@ Curated solutions to LeetCode problems in C++
 | [0215-kth-largest-element-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
 |  |
@@ -206,6 +209,7 @@ Curated solutions to LeetCode problems in C++
 | [0728-self-dividing-numbers](https://github.com/AuroBhuyan/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0809-preimage-size-of-factorial-zeroes-function](https://github.com/AuroBhuyan/LeetCode/tree/master/0809-preimage-size-of-factorial-zeroes-function) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/AuroBhuyan/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
@@ -283,6 +287,7 @@ Curated solutions to LeetCode problems in C++
 ## Geometry
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Divide and Conquer
 |  |
@@ -295,6 +300,7 @@ Curated solutions to LeetCode problems in C++
 | [0493-reverse-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -360,6 +366,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
