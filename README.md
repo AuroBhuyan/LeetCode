@@ -56,6 +56,7 @@ Curated solutions to LeetCode problems in C++
 | [0658-find-k-closest-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
@@ -115,6 +116,7 @@ Curated solutions to LeetCode problems in C++
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -327,6 +329,7 @@ Curated solutions to LeetCode problems in C++
 | ------- |
 | [0011-container-with-most-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0055-jump-game) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -334,6 +337,7 @@ Curated solutions to LeetCode problems in C++
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Sliding Window
 |  |
 | ------- |
@@ -390,6 +394,7 @@ Curated solutions to LeetCode problems in C++
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Linked List
 |  |
 | ------- |
