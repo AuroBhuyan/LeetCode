@@ -29,6 +29,7 @@ Curated solutions to LeetCode problems in C++
 | [0118-pascals-triangle](https://github.com/AuroBhuyan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AuroBhuyan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/AuroBhuyan/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -95,6 +96,7 @@ Curated solutions to LeetCode problems in C++
 | [0128-longest-consecutive-sequence](https://github.com/AuroBhuyan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AuroBhuyan/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/AuroBhuyan/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AuroBhuyan/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AuroBhuyan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
@@ -214,6 +216,7 @@ Curated solutions to LeetCode problems in C++
 | [0048-rotate-image](https://github.com/AuroBhuyan/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AuroBhuyan/LeetCode/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/AuroBhuyan/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
@@ -301,6 +304,7 @@ Curated solutions to LeetCode problems in C++
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/AuroBhuyan/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/AuroBhuyan/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Divide and Conquer
