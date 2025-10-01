@@ -46,6 +46,7 @@ Curated solutions to LeetCode problems in C++
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AuroBhuyan/LeetCode/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AuroBhuyan/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0336-palindrome-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AuroBhuyan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0493-reverse-pairs) |
@@ -104,6 +105,7 @@ Curated solutions to LeetCode problems in C++
 | [0242-valid-anagram](https://github.com/AuroBhuyan/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0424-longest-repeating-character-replacement](https://github.com/AuroBhuyan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -160,6 +162,7 @@ Curated solutions to LeetCode problems in C++
 | [0125-valid-palindrome](https://github.com/AuroBhuyan/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AuroBhuyan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AuroBhuyan/LeetCode/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AuroBhuyan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -272,6 +275,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AuroBhuyan/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/AuroBhuyan/LeetCode/tree/master/0336-palindrome-pairs) |
 ## Binary Search
 |  |
 | ------- |
