@@ -100,6 +100,7 @@ Curated solutions to LeetCode problems in C++
 | [0217-contains-duplicate](https://github.com/AuroBhuyan/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AuroBhuyan/LeetCode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AuroBhuyan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -133,6 +134,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/AuroBhuyan/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -213,6 +215,7 @@ Curated solutions to LeetCode problems in C++
 | [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AuroBhuyan/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
+| [0264-ugly-number-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AuroBhuyan/LeetCode/tree/master/0326-power-of-three) |
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -230,6 +233,7 @@ Curated solutions to LeetCode problems in C++
 | [0055-jump-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AuroBhuyan/LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/AuroBhuyan/LeetCode/tree/master/1013-fibonacci-number) |
