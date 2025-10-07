@@ -58,6 +58,7 @@ Curated solutions to LeetCode problems in C++
 | [0542-01-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AuroBhuyan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AuroBhuyan/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -147,6 +148,7 @@ Curated solutions to LeetCode problems in C++
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/AuroBhuyan/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AuroBhuyan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -363,6 +365,7 @@ Curated solutions to LeetCode problems in C++
 | [0232-implement-queue-using-stacks](https://github.com/AuroBhuyan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/AuroBhuyan/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
