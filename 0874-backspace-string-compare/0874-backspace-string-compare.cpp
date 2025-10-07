@@ -1,38 +1,30 @@
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
-        stack<int> S;
-        stack<int> T;
+        int sSkip = 0;
+        int tSkip = 0;
+        int i = s.size()-1;
+        int j = t.size()-1;
 
-        for(char c:s){
-            if(c=='#'){
-                if(!S.empty()) S.pop();
-            }else{
-                S.push(c);
+        while(i>=0 || j>=0){
+            while(i>=0 &&(s[i]=='#' || sSkip>0)){
+                if(s[i]=='#') { sSkip++; i--; }
+                else { sSkip--; i--; }
             }
-        }
 
-        for(char c:t){
-            if(c=='#'){
-                if(!T.empty()) T.pop();
-            }else{
-                T.push(c);
+            while(j>=0 &&(t[j]=='#' || tSkip>0)){
+                if(t[j]=='#') { tSkip++; j--; }
+                else { tSkip--; j--; }
             }
+
+            if(j<0 && i>=0) return false;
+            if(i<0 && j>=0) return false;
+            if(i>=0 && j>=0 && s[i]!=t[j]) return false;
+
+            i--;
+            j--;
         }
 
-        string newS;
-        string newT;
-
-        while(!S.empty()){
-            newS += S.top();
-            S.pop();
-        }
-
-        while(!T.empty()){
-            newT += T.top();
-            T.pop();
-        }
-
-        return newS==newT;
+        return true;
     }
 };
