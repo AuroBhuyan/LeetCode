@@ -30,6 +30,7 @@ Curated solutions to LeetCode problems in C++
 | [0128-longest-consecutive-sequence](https://github.com/AuroBhuyan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/AuroBhuyan/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AuroBhuyan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AuroBhuyan/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -226,6 +227,7 @@ Curated solutions to LeetCode problems in C++
 | [0050-powx-n](https://github.com/AuroBhuyan/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AuroBhuyan/LeetCode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/AuroBhuyan/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AuroBhuyan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AuroBhuyan/LeetCode/tree/master/0268-missing-number) |
@@ -364,6 +366,7 @@ Curated solutions to LeetCode problems in C++
 | [0020-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AuroBhuyan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AuroBhuyan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AuroBhuyan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
