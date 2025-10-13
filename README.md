@@ -62,6 +62,7 @@ Curated solutions to LeetCode problems in C++
 | [0682-baseball-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/AuroBhuyan/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/AuroBhuyan/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/AuroBhuyan/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AuroBhuyan/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/AuroBhuyan/LeetCode/tree/master/0898-transpose-matrix) |
@@ -372,6 +373,7 @@ Curated solutions to LeetCode problems in C++
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AuroBhuyan/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/AuroBhuyan/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/AuroBhuyan/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Sliding Window
@@ -430,6 +432,7 @@ Curated solutions to LeetCode problems in C++
 | [0042-trapping-rain-water](https://github.com/AuroBhuyan/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AuroBhuyan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AuroBhuyan/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AuroBhuyan/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Linked List
 |  |
