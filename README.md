@@ -175,6 +175,7 @@ Curated solutions to LeetCode problems in C++
 | [0556-next-greater-element-iii](https://github.com/AuroBhuyan/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0812-rotate-string](https://github.com/AuroBhuyan/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/AuroBhuyan/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/AuroBhuyan/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AuroBhuyan/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AuroBhuyan/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -379,6 +380,7 @@ Curated solutions to LeetCode problems in C++
 | [0739-daily-temperatures](https://github.com/AuroBhuyan/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AuroBhuyan/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/AuroBhuyan/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AuroBhuyan/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
